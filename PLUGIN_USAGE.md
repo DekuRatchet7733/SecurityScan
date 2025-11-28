@@ -323,8 +323,8 @@ public class SecurityTestExamples {
 ## 📞 技术支持
 
 如有问题或建议，请联系：
-- Email: support@securityscan.com
-- GitHub: [项目地址]
+- Email: 172418807@qq.com
+- GitHub: https://github.com/t1234849/SecurityScan
 
 ---
 
