@@ -75,7 +75,7 @@ User findUser(String username);
 
 - **路径遍历** → 使用 `FileUtil.file()`规避检查
 - **SSRF** → 使用 `URLUtil.url()`规避检查
-- 
+
 #### 3. 详细的安全提示 📚
 
 每个问题都提供：
